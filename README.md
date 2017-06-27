@@ -1,2 +1,2 @@
 # bullseye
-Glock Website
+  "Glocked, locked, and ready to rock!"
